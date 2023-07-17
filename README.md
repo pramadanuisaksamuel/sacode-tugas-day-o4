@@ -1,2 +1,2 @@
-# sacode-tugas-day-o4
-tugas day 04 prama sacode
+# sacode-tugas-day-o5
+tugas day 05 prama sacode
